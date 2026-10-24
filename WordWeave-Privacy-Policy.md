@@ -80,6 +80,6 @@ We may update this policy when app features or information-handling practices ch
 
 For privacy questions or requests, contact:
 
-[ADD YOUR LEGAL NAME OR BUSINESS NAME]
+Shaheen Biradar
 
-[ADD YOUR SUPPORT EMAIL]
+shaheen17995@gmail.com
