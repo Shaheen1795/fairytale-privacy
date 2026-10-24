@@ -81,7 +81,7 @@ Apple processes iOS purchases. For purchase history and refund requests, visit [
 
 ## Contact support
 
-**Support email: [ADD YOUR SUPPORT EMAIL BEFORE PUBLISHING]**
+**Support email: shaheen17995@gmail.com
 
 Please include:
 
