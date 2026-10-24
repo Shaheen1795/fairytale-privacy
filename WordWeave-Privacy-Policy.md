@@ -4,9 +4,9 @@ Effective date: October 24, 2026
 
 This Privacy Policy explains how WordWeave: Crosswords and Ladders for iPhone and iPad handles information when you use the app.
 
-**Developer / data controller:** [ADD YOUR LEGAL NAME OR BUSINESS NAME]
+**Developer / data controller:** Shaheen 
 
-**Privacy contact:** [ADD YOUR SUPPORT EMAIL]
+**Privacy contact:** shaheen17995@gmail.com
 
 ## Information stored on your device
 
